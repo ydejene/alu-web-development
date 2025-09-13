@@ -31,9 +31,10 @@ To view this project, open the index.html file in any modern web browser.
 Design Source
 This project was built based on the following Figma design:
 
-![figma image][.\assets\images\School Page@2x.png]
+![figma image][.\assets\images\School-Page.png]
 
 Author
 
 Yonas Using Gemni's Text Generative tool.
+
 
